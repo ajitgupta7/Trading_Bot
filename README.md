@@ -4,6 +4,11 @@ use sophisticated machine learning algorithms to predict future stock prices and
 decide to buy or sell the stock. We tested the performance of the bot empirically over a
 certain time frame and for different stocks.**
 
+Contributors:
+ - Ajit Gupta
+ - Kun
+ - Chloe
+
 #### Data
 We collect your own stock price data for which we wanted to train the algorithms.
 
@@ -19,6 +24,10 @@ We used three ML algorithms:
   - Prophet
   - ARIMA
   - XGBoost
+
+Metrcis use:
+ - WMAPE - Weighetd mean absolute percentage error
+ - MAPE - Mean absolue percentage error
 
 ## Output:
 For all the stocks we are getting profit which is close to optimum
